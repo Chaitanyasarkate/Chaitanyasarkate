@@ -1,5 +1,6 @@
 ### 👋 Hi, I’m @Chaitanyasarkate
 
+
 - 👀 I’m interested in full stack web development, Android app development.
 - 🌱 I’m currently learning full stack web development, Android development using Java & Firebase, and exploring modern web technologies.
 - 💞️ I’m looking to collaborate on open-source Android or web projects that solve real-world problems.https:
