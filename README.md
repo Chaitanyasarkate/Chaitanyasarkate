@@ -64,7 +64,7 @@
 <p align="center">
   <a href="mailto:sarkatechaitanya02@gmail.com">📧 sarkatechaitanya02@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/chaitanya-sarkate/">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://chaitanya-sarkate.netlify.app/">🌐 Portfolio</a>
+  <a href="https://chaitanya-sarkate.netlify.app/">🌐 website </a>
 </p>
 
 <p align="center">
