@@ -23,15 +23,6 @@
 
 ---
 
-### 🛠️ Currently Building
-
-| Project | Description |
-|---|---|
-| 🏛️ **Gram Panchayat Application** | A digital solution for local governance/administration workflows |
-| 🎓 **AI-Powered Personalized Learning Path Generator** | Built for Problem Statement ID **25199** (MSDE/NCVET) under the **Smart Education** theme — Software category |
-
----
-
 ### 🧰 Tech Stack
 
 <p align="center">
