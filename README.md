@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Chaitanya Sarkate
 
-### 💻 Full Stack Developer | Android Developer | AI & DevOps Enthusiast
+### 💻 Full Stack Developer | Android Developer |  DevOps Enthusiast
 
 > **"Turning complex problems into simple, elegant solutions through code."** 🚀
 
@@ -14,7 +14,6 @@ I love learning new technologies, building projects from scratch, and turning id
 
 * 💻 Learning and building with **Full Stack Web Development**
 * 📱 Developing **Android applications using Java & Firebase**
-* 🤖 Exploring **Artificial Intelligence, Machine Learning & Generative AI**
 * 🧠 Practicing **Data Structures & Algorithms / LeetCode**
 * ⚙️ Learning **DevOps, Docker, Jenkins & CI/CD**
 * 🔗 Exploring **Agentic AI & workflow automation with n8n**
@@ -30,7 +29,6 @@ I love learning new technologies, building projects from scratch, and turning id
 🎓 Computer Science Student
 🌐 Full Stack Web Development
 📱 Android Development
-🤖 AI / ML / Generative AI
 ⚙️ DevOps & Automation
 🧠 DSA & Problem Solving
 🚀 Project Builder
@@ -66,17 +64,6 @@ I believe the best way to learn technology is to **build something with it**.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
-### 🤖 AI / ML / Data
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-
-**Exploring:**
-
-`Generative AI` • `LLMs` • `RAG` • `AI Agents` • `Agentic AI` • `Computer Vision` • `DeepFace` • `MediaPipe`
-
 ### ⚙️ DevOps & Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
@@ -102,26 +89,6 @@ Exploring:
 
 # 🚀 Featured Projects
 
-## 🏥 MediForecast Pro
-
-### Predictive Hospital Resource & Emergency Load Intelligence System
-
-A data-driven hospital command center designed to help hospitals **forecast demand and optimize resources**.
-
-**Key Features:**
-
-* 📊 Hospital resource dashboard
-* 🏥 ICU & emergency bed monitoring
-* 📈 Emergency admission forecasting
-* 👨‍⚕️ Staff workload analysis
-* 🚨 Resource alerts
-* ⚡ Hospital resource optimization
-* 📊 Interactive data visualization
-
-**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn` `Streamlit` `Plotly`
-
----
-
 ## 📹 Video Calling Platform
 
 A lightweight video communication platform inspired by applications like Zoom and Google Meet.
@@ -136,23 +103,6 @@ A lightweight video communication platform inspired by applications like Zoom an
 * 🌐 Web-based interface
 
 **Tech:** `Python` `Flask` `Twilio` `HTML` `CSS` `JavaScript`
-
----
-
-## 🤖 Emotion-Aware AI Chatbot
-
-An experimental AI application that combines **computer vision and emotion recognition** to make chatbot interactions more context-aware.
-
-**Exploring:**
-
-* 👁️ Facial emotion recognition
-* 🧠 DeepFace
-* 🎥 OpenCV
-* 🖐️ MediaPipe
-* 🤖 AI chatbot interaction
-* 💬 Emotion-aware conversations
-
-**Tech:** `Python` `OpenCV` `DeepFace` `MediaPipe` `AI`
 
 ---
 
@@ -193,60 +143,8 @@ A modern frontend chat interface with:
 
 ---
 
-# 🤖 My AI Journey
-
-I'm currently exploring the rapidly evolving world of AI.
-
-### Areas I'm learning:
-
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Generative AI
-        ↓
-Large Language Models
-        ↓
-RAG Systems
-        ↓
-AI Agents
-        ↓
-Agentic AI
-        ↓
-AI Workflow Automation
-```
-
-I've also been experimenting with **n8n**, AI agents, Airtable integrations, automated email workflows, and intelligent chatbot systems.
-
----
-
-# 🧠 DSA & Problem Solving
-
-I'm actively improving my problem-solving skills through **Data Structures & Algorithms and LeetCode**.
-
-### Current focus:
-
-* Arrays
-* HashMap / HashSet
-* Strings
-* Two Pointers
-* Sliding Window
-* Binary Search
-* Stack & Queue
-* Linked Lists
-* Trees
-* Graphs
-* Recursion
-* Backtracking
-* Greedy Algorithms
-* Dynamic Programming
-
 ### 🎯 Goal
 
-> **Understand patterns, not just memorize solutions.**
-
----
 
 # ⚙️ DevOps Journey
 
@@ -274,28 +172,6 @@ Currently focusing on:
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chaitanyasarkate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanyasarkate&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Chaitanyasarkate&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📈 My Developer Journey
 
 ```text
@@ -306,10 +182,6 @@ Currently focusing on:
 📱 Android Development
         ↓
 🧠 Data Structures & Algorithms
-        ↓
-🤖 AI / Machine Learning
-        ↓
-🧩 Generative AI & LLMs
         ↓
 🤖 Agentic AI
         ↓
@@ -329,7 +201,6 @@ Currently focusing on:
 🏥 Real-world Problem Solving Systems
 ⚙️ Automation & DevOps Tools
 📊 Data-driven Dashboards
-🧠 Intelligent Agents
 🚀 Developer Tools
 ```
 
