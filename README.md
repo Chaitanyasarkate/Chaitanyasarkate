@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Chaitanya Sarkate
 
-### 💻 Full Stack Developer | Android Developer |  DevOps Enthusiast
+### 💻  Android Developer |  DevOps Enthusiast
 
 > **"Turning complex problems into simple, elegant solutions through code."** 🚀
 
@@ -15,7 +15,7 @@ I love learning new technologies, building projects from scratch, and turning id
 * 💻 Learning and building with **Full Stack Web Development**
 * 📱 Developing **Android applications using Java & Firebase**
 * 🧠 Practicing **Data Structures & Algorithms / LeetCode**
-* ⚙️ Learning **DevOps, Docker, Jenkins & CI/CD**
+* ⚙️ Learning **DevOps, Docker, Jenkins, GitHub Actions & CI/CD**
 * 🔗 Exploring **Agentic AI & workflow automation with n8n**
 * 🛠️ Building projects that solve **real-world problems**
 * 🌱 Continuously exploring modern technologies and development practices
