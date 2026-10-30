@@ -16,7 +16,6 @@ I love learning new technologies, building projects from scratch, and turning id
 * 📱 Developing **Android applications using Java & Firebase**
 * 🧠 Practicing **Data Structures & Algorithms / LeetCode**
 * ⚙️ Learning **DevOps, Docker, Jenkins, GitHub Actions & CI/CD**
-* 🔗 Exploring **Agentic AI & workflow automation with n8n**
 * 🛠️ Building projects that solve **real-world problems**
 * 🌱 Continuously exploring modern technologies and development practices
 
@@ -26,7 +25,7 @@ I love learning new technologies, building projects from scratch, and turning id
 
 ```text
 👨‍💻 Developer
-🎓 Computer Science Student
+🎓 Information Technology Student
 🌐 Full Stack Web Development
 📱 Android Development
 ⚙️ DevOps & Automation
@@ -56,7 +55,6 @@ I believe the best way to learn technology is to **build something with it**.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
 
 ### 📱 Android Development
 
@@ -87,61 +85,6 @@ Exploring:
 
 ---
 
-# 🚀 Featured Projects
-
-## 📹 Video Calling Platform
-
-A lightweight video communication platform inspired by applications like Zoom and Google Meet.
-
-**Features:**
-
-* 👥 User management
-* 🏠 Meeting rooms
-* 🎥 Real-time video communication
-* 🎙️ Audio communication
-* 🔐 Room-based calling
-* 🌐 Web-based interface
-
-**Tech:** `Python` `Flask` `Twilio` `HTML` `CSS` `JavaScript`
-
----
-
-## 🌾 Online Gram Panchayat Application
-
-A digital platform designed to simplify access to **Gram Panchayat services** and improve communication between citizens and local administration.
-
-**Focus:**
-
-* 🏛️ Digital public services
-* 👥 Citizen interaction
-* 📄 Online information access
-* 🌐 Web-based administration
-* 📊 Digital governance
-
----
-
-## 👩‍💻 Women Safety Check-In Portal
-
-A web-based safety solution focused on helping users maintain check-ins and improve communication during potentially unsafe situations.
-
-**Focus:** `Web Development` `Safety Technology` `Responsive UI` `User Experience`
-
----
-
-## 💬 Chat UI
-
-A modern frontend chat interface with:
-
-* 💬 Chat bubbles
-* 🌙 Dark / Light mode
-* 😀 Emoji picker
-* 💾 Persistent chat storage
-* 📱 Responsive design
-* 🌐 GitHub Pages deployment
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
----
 
 ### 🎯 Goal
 
@@ -183,8 +126,6 @@ Currently focusing on:
         ↓
 🧠 Data Structures & Algorithms
         ↓
-🤖 Agentic AI
-        ↓
 ⚙️ DevOps & Jenkins
         ↓
 🚀 Building Production-Ready Projects
@@ -199,8 +140,6 @@ Currently focusing on:
 📱 Android Applications
 🤖 AI-powered Applications
 🏥 Real-world Problem Solving Systems
-⚙️ Automation & DevOps Tools
-📊 Data-driven Dashboards
 🚀 Developer Tools
 ```
 
@@ -212,8 +151,6 @@ I'm interested in collaborating on:
 
 * 🌐 Open-source Web Projects
 * 📱 Android Applications
-* 🤖 AI / ML Projects
-* 🧠 Generative AI Projects
 * ⚙️ DevOps & Automation
 * 🚀 Hackathon Projects
 * 🌍 Projects solving real-world problems
