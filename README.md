@@ -1,211 +1,208 @@
-# 👋 Hey, I'm Chaitanya Sarkate
+&#x20;\<div align="center">
 
-### 💻  Android Developer |  DevOps Enthusiast
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:09090F,50:24243E,100:4B3F72&height=200&section=header&text=CHAITANYA%20SARKATE&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Android%20Developer%20%7C%20DevOps%20Enthusiast&descSize=15&descAlignY=60&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&color=0:09090F,50:24243E,100:4B3F72\&height=200\&section=header\&text=CHAITANYA%20SARKATE\&fontSize=42\&fontColor=ffffff\&fontAlignY=40\&desc=Android%20Developer%20%7C%20DevOps%20Enthusiast\&descSize=15\&descAlignY=60\&animation=fadeIn)" width="100%"/>
 
-> **"Turning complex problems into simple, elegant solutions through code."** 🚀
+\</div>
 
-I'm a passionate developer who enjoys building **real-world applications**, experimenting with **AI-powered solutions**, and continuously improving my problem-solving skills through **DSA and software development**.
+\<div align="center">
 
-I love learning new technologies, building projects from scratch, and turning ideas into working products.
+### 👋 Hey, I'm Chaitanya Sarkate
 
----
+**Android Developer | DevOps Enthusiast | IT Student**
 
-## 🚀 What I'm Currently Doing
+*Turning complex problems into simple, elegant solutions through code.* 🚀
 
-* 💻 Learning and building with **Full Stack Web Development**
-* 📱 Developing **Android applications using Java & Firebase**
-* 🧠 Practicing **Data Structures & Algorithms / LeetCode**
-* ⚙️ Learning **DevOps, Docker, Jenkins, GitHub Actions & CI/CD**
-* 🛠️ Building projects that solve **real-world problems**
-* 🌱 Continuously exploring modern technologies and development practices
+
+
+\
+
+
+\</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-```text
-👨‍💻 Developer
-🎓 Information Technology Student
-🌐 Full Stack Web Development
-📱 Android Development
-⚙️ DevOps & Automation
-🧠 DSA & Problem Solving
-🚀 Project Builder
-🌱 Lifelong Learner
+\<table>
+\<tr>
+\<td width="55%" valign="top">
+
+```javascript
+const chaitanya = {
+  name: "Chaitanya Sarkate",
+  role: "Developer",
+  education: "Information Technology",
+
+  interests: [
+    "Full Stack Development",
+    "Android Development",
+    "DevOps & Automation",
+    "Artificial Intelligence",
+    "Data Structures & Algorithms"
+  ],
+
+  currentlyLearning: [
+    "Docker",
+    "Jenkins",
+    "CI/CD",
+    "Cloud Technologies",
+    "AI Agents & n8n"
+  ],
+
+  goal: "Build meaningful products"
+};
 ```
 
-I believe the best way to learn technology is to **build something with it**.
+\</td>
+\<td width="45%" align="center" valign="middle">
+
+\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanyasarkate&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanyasarkate\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=0D1117)" width="100%"/>
+
+\</td>
+\</tr>
+\</table>
+
+> I believe the best way to learn technology is to build something with it.
 
 ---
 
-# 🛠️ Tech Stack
+## 🤝 Connect With Me
 
-### 👨‍💻 Programming Languages
+\<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+
+\
+
+
+\</div>
+
+---
+
+## 🛠️ Tech Stack
+
+\<div align="center">
+
+### 💻 Programming Languages
+
+\<img src="[https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark](https://skillicons.dev/icons?i=python,java,cpp,js\&theme=dark)" />
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+\<img src="[https://skillicons.dev/icons?i=html,css,js,flask,nodejs&theme=dark](https://skillicons.dev/icons?i=html,css,js,flask,nodejs\&theme=dark)" />
 
 ### 📱 Android Development
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+\<img src="[https://skillicons.dev/icons?i=android,java,firebase&theme=dark](https://skillicons.dev/icons?i=android,java,firebase\&theme=dark)" />
 
-### ⚙️ DevOps & Tools
+### ⚙️ DevOps & Development Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+\<img src="[https://skillicons.dev/icons?i=git,github,docker,jenkins,linux,vscode&theme=dark](https://skillicons.dev/icons?i=git,github,docker,jenkins,linux,vscode\&theme=dark)" />
 
-**Currently learning:**
+### 🤖 AI & Automation
 
-`Jenkins` • `CI/CD` • `Docker` • `Cloud Deployment` • `DevOps Practices`
+\<img src="[https://skillicons.dev/icons?i=python&theme=dark](https://skillicons.dev/icons?i=python\&theme=dark)" />
 
-### 🔗 Automation & AI Tools
+\<img src="[https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge\&logo=airtable\&logoColor=white)" />
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+**Currently Exploring**
 
-Exploring:
+`AI Agents` · `Workflow Automation` · `LLM Applications` · `Cloud Deployment`
 
-`n8n` • `Airtable` • `AI Agents` • `Workflow Automation` • `LLM Applications`
+\</div>
 
 ---
 
+## ⚙️ DevOps Journey
 
-### 🎯 Goal
-
-
-# ⚙️ DevOps Journey
-
-I'm currently building my DevOps foundation.
+\<div align="center">
 
 ```text
-Linux
-  ↓
-Git & GitHub
-  ↓
-Docker
-  ↓
-Jenkins
-  ↓
-CI/CD
-  ↓
-Cloud
-  ↓
-Infrastructure & Automation
+       🐧 Linux
+          ↓
+      🔧 Git & GitHub
+          ↓
+       🐳 Docker
+          ↓
+      ⚙️ Jenkins
+          ↓
+        🔄 CI/CD
+          ↓
+       ☁️ Cloud
+          ↓
+  🚀 Infrastructure & Automation
 ```
 
-Currently focusing on:
-
-`Docker` • `Jenkins` • `CI/CD` • `Git` • `Linux` • `Deployment`
+\</div>
 
 ---
 
-# 📈 My Developer Journey
+## 🚀 What I'm Building & Learning
 
-```text
-🌱 Started with Programming
-        ↓
-🌐 Web Development
-        ↓
-📱 Android Development
-        ↓
-🧠 Data Structures & Algorithms
-        ↓
-⚙️ DevOps & Jenkins
-        ↓
-🚀 Building Production-Ready Projects
-```
+| Area               | Focus                       |
+| :----------------- | :-------------------------- |
+| 🌐 Web Development | Full Stack Applications     |
+| 📱 Android         | Java & Firebase             |
+| 🧠 DSA             | Problem Solving & LeetCode  |
+| ⚙️ DevOps          | Docker, Jenkins, CI/CD      |
+| 🤖 AI              | AI Agents, n8n & Automation |
+| 🚀 Projects        | Real-world Problem Solving  |
 
 ---
 
-# 💡 What I Love Building
+## 📊 GitHub Analytics
 
-```text
-🌐 Full Stack Web Applications
-📱 Android Applications
-🤖 AI-powered Applications
-🏥 Real-world Problem Solving Systems
-🚀 Developer Tools
-```
+\<div align="center">
 
----
+\<img width="100%" src="[https://github-readme-stats.vercel.app/api?username=Chaitanyasarkate&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github](https://github-readme-stats.vercel.app/api?username=Chaitanyasarkate\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=0D1117\&rank_icon=github)" />
 
-# 🤝 Let's Collaborate
+\<img width="100%" src="[https://github-readme-streak-stats.herokuapp.com/?user=Chaitanyasarkate&theme=tokyonight&hide_border=true&background=0D1117](https://github-readme-streak-stats.herokuapp.com/?user=Chaitanyasarkate\&theme=tokyonight\&hide_border=true\&background=0D1117)" />
 
-I'm interested in collaborating on:
+\<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=Chaitanyasarkate&bg_color=0D1117&color=9F8CFF&line=7B68EE&point=FFFFFF&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=Chaitanyasarkate\&bg_color=0D1117\&color=9F8CFF\&line=7B68EE\&point=FFFFFF\&area=true\&hide_border=true)" />
 
-* 🌐 Open-source Web Projects
-* 📱 Android Applications
-* ⚙️ DevOps & Automation
-* 🚀 Hackathon Projects
-* 🌍 Projects solving real-world problems
-
-If you have an interesting idea, **let's build it together!**
+\</div>
 
 ---
 
-# 🌐 Connect With Me
+## 🏆 GitHub Trophies
 
-<p align="center">
+\<div align="center">
 
-<a href="mailto:sarkatechaitanya02@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+\<img src="[https://github-profile-trophy.vercel.app/?username=Chaitanyasarkate&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=2&column=4](https://github-profile-trophy.vercel.app/?username=Chaitanyasarkate\&theme=discord\&no-frame=true\&no-bg=true\&margin-w=8\&row=2\&column=4)" width="100%" />
 
-<a href="https://www.linkedin.com/in/chaitanya-sarkate/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-
-</p>
+\</div>
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-<div align="center">
+\<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chaitanyasarkate/Chaitanyasarkate/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chaitanyasarkate/Chaitanyasarkate/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Chaitanyasarkate/Chaitanyasarkate/output/github-contribution-grid-snake.svg">
-</picture>
+\<picture>   \<source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/Chaitanyasarkate/Chaitanyasarkate/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/Chaitanyasarkate/Chaitanyasarkate/output/github-contribution-grid-snake-dark.svg)">   \<source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/Chaitanyasarkate/Chaitanyasarkate/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Chaitanyasarkate/Chaitanyasarkate/output/github-contribution-grid-snake.svg)">   \<img alt="GitHub contribution snake animation" src="[https://raw.githubusercontent.com/Chaitanyasarkate/Chaitanyasarkate/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/Chaitanyasarkate/Chaitanyasarkate/output/github-contribution-grid-snake.svg)" width="100%"> \</picture>
 
-</div>
+\</div>
 
 ---
 
-# ✨ Developer Philosophy
+## 💡 Developer Philosophy
 
-> ### **Learn → Build → Break → Debug → Improve → Repeat 🔁**
+\<div align="center">
 
-I don't want to just learn technologies.
+### Learn → Build → Break → Debug → Improve → Repeat 🔁
 
-I want to **understand them, build with them, and use them to solve meaningful problems.**
+*I don't just want to learn technologies.*
 
----
+*I want to understand them, build with them, and use them to solve meaningful problems.*
 
-<div align="center">
+\<br/>
 
-### 💻 Building today. Learning tomorrow. Creating the future. 🚀
+### 💻 Building Today. Learning Tomorrow. Creating the Future. 🚀
 
 **Thanks for visiting my profile!**
 
-⭐ If you find my projects interesting, consider giving them a star!
+⭐ If you find my projects interesting, consider giving them a star.
 
-</div>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:4B3F72,50:24243E,100:09090F&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:4B3F72,50:24243E,100:09090F\&height=100\&section=footer)" width="100%"/>
+
+\</div>
