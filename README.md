@@ -52,7 +52,7 @@ const chaitanya = {
 </td>
 <td width="45%" valign="middle" align="center">
 
-<img width="168" height="299" alt="images" src="https://github.com/user-attachments/assets/33ef5c93-2114-4a4f-a0c2-7944b4aaf47b" />
+<img width="170" height="300" alt="images" src="https://github.com/user-attachments/assets/33ef5c93-2114-4a4f-a0c2-7944b4aaf47b" />
 
 </td>
 </tr>
